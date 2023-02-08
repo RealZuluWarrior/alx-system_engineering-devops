@@ -1,5 +1,3 @@
 #!/bin/bash
-Newdir= $pwd
-cd /var
-pwd
-cd $Newdir
+cd "$OLDPWD"
+
