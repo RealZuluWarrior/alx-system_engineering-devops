@@ -5,3 +5,4 @@ shell scripting is fun!
 3-new_owner : Change ownership from hello to betty
 4-empty : Create and empty file
 5-execute : Add execute permission to file hello
+6-multiple_permissions : Add execute permissions for owner group and read permission to other users
