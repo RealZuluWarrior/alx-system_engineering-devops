@@ -4,3 +4,4 @@ shell scripting is fun!
 2-groups : Display all the current user groups
 3-new_owner : Change ownership from hello to betty
 4-empty : Create and empty file
+5-execute : Add execute permission to file hello
