@@ -9,3 +9,4 @@ shell scripting is fun!
 7-everybody : Add execute permission to the owner group and others
 8-James_Bond : Set permissions to hello
  9-John_Doe : Set mode permission for hello
+10-mirror_permissions : set hello 's mode to olleh's mode
