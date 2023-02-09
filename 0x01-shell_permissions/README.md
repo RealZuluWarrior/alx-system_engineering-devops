@@ -7,4 +7,5 @@ shell scripting is fun!
 5-execute : Add execute permission to file hello
 6-multiple_permissions : Add execute permissions for owner group and read permission to other users
 7-everybody : Add execute permission to the owner group and others
- 8-James_Bond : Set permissions to hello
+8-James_Bond : Set permissions to hello
+ 9-John_Doe : Set mode permission for hello
