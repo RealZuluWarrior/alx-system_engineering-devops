@@ -11,3 +11,4 @@ shell scripting is fun!
  9-John_Doe : Set mode permission for hello
 10-mirror_permissions : set hello 's mode to olleh's mode
 11-directories_permissions : all subdirectories of the current directory
+12-directory_permissions : create a folder with persmissions
