@@ -12,3 +12,4 @@ shell scripting is fun!
 10-mirror_permissions : set hello 's mode to olleh's mode
 11-directories_permissions : all subdirectories of the current directory
 12-directory_permissions : create a folder with persmissions
+13-change_group : script that changes the group owner to school for the file hello
