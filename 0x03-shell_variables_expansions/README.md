@@ -3,3 +3,4 @@
 1-hello_you : Hello you
 2-path : add the path
 3-paths : count path
+4-global_variables : print global variables
