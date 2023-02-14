@@ -9,3 +9,4 @@
 7-create_global_variable :create a new global variable
 8-true_knowledge :prints the result of the addition of 128
 9-divide_and_rule :prints the result of POWER divided by DIVIDE
+11-binary_to_decimal :convert binary to decimal
